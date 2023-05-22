@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Тут могла бути ваша реклама!
+          Тут могла бутдди ваша реклама!
         </a>
       </header>
     </div>
